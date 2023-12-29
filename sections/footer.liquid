@@ -55,30 +55,6 @@
         
         <hr class="d-none d-sm-block mb-7">
 
-        <div id="footer-copyright" class="small text-center">
-            <p class="mb-0">
-                &copy; {{ 'now' | date: "%Y" }} {{ shop.name }}. {{ 'general.general.all_rights_reserved' | t }}
-            </p>
-            {% if section.settings.show_powered_by %}
-                <p class="mb-0">
-                    Powered by <a href="https://www.shopify.com" target="_blank" rel="sponsored">Shopify</a>. 
-                    Theme by <a href="https://www.kondasoft.com" target="_blank" rel="sponsored">KondaSoft</a>
-                </p>
-            {% endif %}
-            {% if section.settings.show_social_icons %}
-                <div class="social-icons-wrapper mt-4">
-                    <small class="opacity-75 lh-sm visually-hidden">
-                        {{ 'general.general.follow_us' | t }}
-                    </small>
-                    {% render 'social-icons', icon_size: 18 %}
-                </div>
-            {% endif %}
-            {% if section.settings.show_payment_icons %}
-                <div class="payment-icons-wrapper mt-4">
-                    {% render 'payment-icons' %}
-                </div>
-            {% endif %}
-        </div>
     </div>
 </footer>
 
