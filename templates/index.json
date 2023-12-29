@@ -175,15 +175,15 @@
             "border_color": "",
             "border_width": 1,
             "img": "shopify:\/\/shop_images\/Asset-16_4x-scaled.webp",
-            "img_orientation": "square",
-            "img_crop": "center",
+            "img_orientation": "landscape",
+            "img_crop": "top",
             "title": "PillowCase",
             "title_size": "h5",
-            "description": "<p>Nurse call connected iPad case<\/p>",
+            "description": "<h6>Nurse call connected iPad case<\/h6>",
             "description_size": "fs-6",
             "btn_text": "More Info",
             "btn_url": "shopify:\/\/collections\/tablet-holders",
-            "btn_color": "btn-outline-primary",
+            "btn_color": "btn-link",
             "btn_size": ""
           }
         },
@@ -191,19 +191,19 @@
           "type": "item",
           "settings": {
             "text_align": "text-start",
-            "shadow": "shadow",
-            "border_color": "border-primary",
+            "shadow": "shadow-sm",
+            "border_color": "",
             "border_width": 1,
-            "img": "shopify:\/\/shop_images\/Asset-17_4x-scaled.webp",
-            "img_orientation": "square",
+            "img": "shopify:\/\/shop_images\/Asset-17_4x-scaled_1_copy.png",
+            "img_orientation": "potrait",
             "img_crop": "center",
             "title": "HallMonitor",
             "title_size": "h5",
-            "description": "<p>EMR populated digital signage<\/p>",
+            "description": "<h6>EMR populated digital signage<\/h6>",
             "description_size": "fs-6",
             "btn_text": "More Info",
             "btn_url": "shopify:\/\/collections\/illuminated-displays",
-            "btn_color": "btn-outline-primary",
+            "btn_color": "btn-link",
             "btn_size": ""
           }
         },
@@ -219,11 +219,11 @@
             "img_crop": "center",
             "title": "BlackJack",
             "title_size": "h5",
-            "description": "<p>Magnetic bed cable<\/p>",
+            "description": "<h6>Magnetic bed cable<\/h6>",
             "description_size": "fs-6",
             "btn_text": "More Info",
             "btn_url": "shopify:\/\/collections\/magnetic-cables-1",
-            "btn_color": "btn-outline-primary",
+            "btn_color": "btn-link",
             "btn_size": ""
           }
         },
@@ -239,11 +239,11 @@
             "img_crop": "center",
             "title": "ComCierge",
             "title_size": "h5",
-            "description": "<p>Digital pillow speaker<\/p>",
+            "description": "<h6>Digital pillow speaker<\/h6>",
             "description_size": "fs-6",
             "btn_text": "More Info",
             "btn_url": "shopify:\/\/collections\/digital-pillow-speaker",
-            "btn_color": "btn-outline-primary",
+            "btn_color": "btn-link",
             "btn_size": ""
           }
         }
@@ -253,6 +253,9 @@
         "8e95535f-a8b1-440c-8dc1-47263a1da13e",
         "9450772e-4e92-4251-97cd-69e844e7fe9f",
         "5f2ca4c4-dfa9-477b-95dc-1887e7efbb45"
+      ],
+      "custom_css": [
+        "img {height: 200px; object-fit: contain;}"
       ],
       "settings": {
         "bg_color": "bg-white text-dark",
@@ -276,8 +279,8 @@
         "bg_color": "bg-light text-body",
         "text_align": "text-start",
         "image": "shopify:\/\/shop_images\/Asset-16_4x-scaled.webp",
-        "img_orientation": "landscape-x2",
-        "img_crop": "center",
+        "img_orientation": "landscape",
+        "img_crop": "top",
         "img_border": "img-thumbnail",
         "img_align_desktop": "flex-lg-row",
         "title": "PillowCase",
