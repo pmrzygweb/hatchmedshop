@@ -6,10 +6,11 @@
         "7c7200c0-9e25-4d6f-8e80-68098f92561e": {
           "type": "slide",
           "settings": {
-            "img_mobile": "shopify:\/\/shop_images\/Asset_63_3x_1.webp",
+            "img_mobile": "shopify:\/\/shop_images\/Asset_64_3x_1.webp",
             "img_mobile_height": 500,
             "img_mobile_opacity": 0.7,
-            "img_desktop_height": 800,
+            "img_desktop": "shopify:\/\/shop_images\/Asset_63_3x_1.webp",
+            "img_desktop_height": 600,
             "img_desktop_opacity": 0.7,
             "title": "Connecting your patients to technology",
             "title_size": "h2",
@@ -27,7 +28,8 @@
             "img_mobile": "shopify:\/\/shop_images\/wordpress_banner.png",
             "img_mobile_height": 500,
             "img_mobile_opacity": 0.7,
-            "img_desktop_height": 800,
+            "img_desktop": "shopify:\/\/shop_images\/wordpress_banner.png",
+            "img_desktop_height": 600,
             "img_desktop_opacity": 0.7,
             "title": "Transform your iPad into an FDA medical device",
             "title_size": "h2",
