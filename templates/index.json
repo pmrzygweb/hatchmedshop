@@ -182,7 +182,7 @@
             "description": "<p>Nurse call connected iPad case<\/p>",
             "description_size": "fs-6",
             "btn_text": "More Info",
-            "btn_url": "",
+            "btn_url": "shopify:\/\/collections\/tablet-holders",
             "btn_color": "btn-outline-primary",
             "btn_size": ""
           }
@@ -202,7 +202,7 @@
             "description": "<p>EMR populated digital signage<\/p>",
             "description_size": "fs-6",
             "btn_text": "More Info",
-            "btn_url": "",
+            "btn_url": "shopify:\/\/collections\/illuminated-displays",
             "btn_color": "btn-outline-primary",
             "btn_size": ""
           }
@@ -222,7 +222,7 @@
             "description": "<p>Magnetic bed cable<\/p>",
             "description_size": "fs-6",
             "btn_text": "More Info",
-            "btn_url": "",
+            "btn_url": "shopify:\/\/collections\/magnetic-cables-1",
             "btn_color": "btn-outline-primary",
             "btn_size": ""
           }
@@ -234,15 +234,15 @@
             "shadow": "shadow-sm",
             "border_color": "",
             "border_width": 1,
-            "img": "shopify:\/\/shop_images\/Asset-10_4x_13995d25-715a-4fe7-8689-c1ab41cda944.webp",
+            "img": "shopify:\/\/shop_images\/Asset-14_4x_801ee53b-a4a6-43cc-9794-ed51c0049296.webp",
             "img_orientation": "square",
             "img_crop": "center",
-            "title": "SnapJack",
+            "title": "ComCierge",
             "title_size": "h5",
-            "description": "<p>Magnetic pillow speaker cable<\/p>",
+            "description": "<p>Digital pillow speaker<\/p>",
             "description_size": "fs-6",
             "btn_text": "More Info",
-            "btn_url": "",
+            "btn_url": "shopify:\/\/collections\/digital-pillow-speaker",
             "btn_color": "btn-outline-primary",
             "btn_size": ""
           }
