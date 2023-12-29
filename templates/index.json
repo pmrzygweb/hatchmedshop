@@ -46,6 +46,9 @@
         "7c7200c0-9e25-4d6f-8e80-68098f92561e",
         "45eefe8d-75a6-4c0d-83c1-bf904392cb96"
       ],
+      "custom_css": [
+        "img {object-fit: cover;}"
+      ],
       "settings": {
         "controls": true,
         "indicators": true,
